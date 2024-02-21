@@ -166,4 +166,4 @@ submitBtn.onclick = saveHighscore;
 // start quiz
 startBtn.onclick = startQuiz;
 
-initialsEl.onkeyup = checkForEnter;
+initialsEl.onkeyup = checkForEnter; 
